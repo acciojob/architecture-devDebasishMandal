@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+.main{
+	width:1100px;
+	margin:auto;
+	background-color:grey;
+}
+.imageContainer{
+	width:60%;
+	
+}
+table{
+	width:1000px;
+	margin:auto;
+}
+
+.fc{
+	width:200px;
+}
+.fc>img {
+    width: 100%; /* or any custom size */
+    height: 100%; 
+    object-fit: contain;
+}
+
+
+.mc{
+	width:600px
+	text-align:center;
+}
+.lc{
+	width:200px;
+}
+.lc>img {
+    width: 100%; /* or any custom size */
+    height: 100%; 
+    object-fit: contain;
+}
